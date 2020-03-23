@@ -19,7 +19,7 @@ end
 def literal_aoh
   aoh = []
   aoh.push(DON_G[name], JOELLE_VD, PAT_M, KATE_G, BRUCE_G)
-  aoh.sort
+  
   return aoh
 end
 
